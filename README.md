@@ -1,2 +1,3 @@
 # AOC_Alonso_Jonathan_Victor_UFRR_LabCircuito_2025
 
+Descrição
